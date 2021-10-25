@@ -11,6 +11,12 @@ div.intro {
     top: 150px;
     width: 450px;
     }
+div.success {
+    position: fixed;
+    left: 175px;
+    top: 95px;
+    width: 450px;
+}
 div.homePhoto {
     position: fixed;
     right:25px;
