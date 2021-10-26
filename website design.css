@@ -1,5 +1,5 @@
-@media (max-width: 900px) and (min-width: 700px) {
-    
+
+
 div.homeTabs {
     position: fixed;
     bottom: 225px;
@@ -19,10 +19,12 @@ div.success {
     top: 95px;
     width: 450px;
 }
-div.homePhoto {
-    position: fixed;
-    right:25px;
-    top: 0px;
+@media (max-width: 400px) {
+    div.homePhoto {
+        position: fixed;
+        right:25px;
+        top: 0px;
+    }
 }
 div.tabs {
     position: fixed;
@@ -123,4 +125,3 @@ input[type=text], select, textarea {
     padding: 20px;
   }
 
-}
