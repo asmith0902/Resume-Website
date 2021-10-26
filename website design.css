@@ -68,7 +68,7 @@ div.paragraph {
 div.email {
     position: fixed;
     left: 50px;
-    top: 350px;
+    bottom: 100px;
     width: 700px;
 }
 div.introTitle {
