@@ -19,7 +19,7 @@ div.success {
     top: 95px;
     width: 450px;
 }
-@media (max-width: 400px) {
+@media (max-width: 50%) {
     div.homePhoto {
         position: fixed;
         right:25px;
