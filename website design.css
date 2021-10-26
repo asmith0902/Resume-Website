@@ -19,13 +19,13 @@ div.success {
     top: 95px;
     width: 450px;
 }
-@media (max-width: 30%) {
+
     div.homePhoto {
         position: fixed;
-        left:25px;
+        right:25px;
         top: 0px;
     }
-}
+
 div.tabs {
     position: fixed;
     right: 25px;
